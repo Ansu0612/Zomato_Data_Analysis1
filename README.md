@@ -12,6 +12,9 @@ Restaurants understand what drives high ratings and customer satisfaction.
 
 Data-driven insights help in making strategic decisions.
 
+![Zomato Data Analysis](Screenshot%202025-03-08%20181944.png)
+
+
 🎯 Objective
 
 This project aims to analyze Zomato’s data to uncover meaningful insights that can improve customer experience and business strategies. Our key objectives include:-
@@ -19,6 +22,9 @@ This project aims to analyze Zomato’s data to uncover meaningful insights that
 Understanding what makes a restaurant successful (e.g., pricing, location, ratings).
 
 Identifying factors influencing customer ratings and preferences.
+
+![Zomato Data Analysis](Screenshot%202025-03-08%20182028.png)
+
 
 Highlighting areas of improvement for both Zomato and restaurants.
 
@@ -62,6 +68,9 @@ Visualization & Insights: Matplotlib, Seaborn, Power BI
 
 Statistical Analysis: Correlation & trend analysis
 
+![Zomato Data Analysis](Screenshot%202025-03-08%20182110.png)
+
+
 🚀 Impact & Recommendations
 
 For Zomato: Enhance search algorithms to recommend restaurants based on pricing, location, and cuisine trends.
@@ -69,6 +78,9 @@ For Zomato: Enhance search algorithms to recommend restaurants based on pricing,
 For Restaurants: Focus on customer engagement, pricing balance, and targeted marketing.
 
 For Customers: Leverage ratings and location-based insights to make smarter dining choices.
+
+![Zomato Data Analysis](Screenshot%202025-03-08%20182135.png)
+
 
 📌 Conclusion
 
