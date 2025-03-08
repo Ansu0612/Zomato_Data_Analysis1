@@ -1,6 +1,6 @@
-🍽️ Zomato Data Analysis
+ ## 🍽️ Zomato Data Analysis :-
 
-📌 Problem Statement
+##  Problem Statement:-
 
 Imagine you’re craving a delicious meal, but choosing the right restaurant feels overwhelming. With thousands of options available on Zomato, how can customers make informed decisions, and how can restaurants stand out in such a competitive space?
 
@@ -15,7 +15,7 @@ Data-driven insights help in making strategic decisions.
 ![Zomato Data Analysis](Screenshot%202025-03-08%20181944.png)
 
 
-🎯 Objective
+## 🎯 Objective :-
 
 This project aims to analyze Zomato’s data to uncover meaningful insights that can improve customer experience and business strategies. Our key objectives include:-
 
@@ -28,7 +28,7 @@ Identifying factors influencing customer ratings and preferences.
 
 Highlighting areas of improvement for both Zomato and restaurants.
 
-🔑 Key Insights & Improvements
+## 🔑 Key Insights & Improvements:- 
 
 Pricing Strategy Matters 💰
 
@@ -60,7 +60,7 @@ Many users rate delivery-based restaurants lower than dine-in options.
 
 Improving food packaging and delivery efficiency can boost ratings.
 
-📊 Tools & Techniques Used
+## 📊 Tools & Techniques Used:-
 
 Data Cleaning & Processing: Pandas, NumPy
 
@@ -71,7 +71,7 @@ Statistical Analysis: Correlation & trend analysis
 ![Zomato Data Analysis](Screenshot%202025-03-08%20182110.png)
 
 
-🚀 Impact & Recommendations
+## 🚀 Impact & Recommendations:-
 
 For Zomato: Enhance search algorithms to recommend restaurants based on pricing, location, and cuisine trends.
 
@@ -82,6 +82,6 @@ For Customers: Leverage ratings and location-based insights to make smarter dini
 ![Zomato Data Analysis](Screenshot%202025-03-08%20182135.png)
 
 
-📌 Conclusion
+## 📌 Conclusion:-
 
 This analysis provides a data-driven approach to understanding Zomato’s restaurant ecosystem. By leveraging insights from this project, Zomato can refine its platform, restaurants can optimize their strategies, and customers can enjoy a better dining experience! 🍽️📊
